@@ -1,0 +1,6 @@
+C:\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.exe.config
+C:\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.exe
+C:\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+C:\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.csprojResolveAssemblyReference.cache
+C:\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.exe
+C:\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.pdb

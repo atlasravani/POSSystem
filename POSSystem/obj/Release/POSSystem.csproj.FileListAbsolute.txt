@@ -1,0 +1,5 @@
+C:\Projects\POSSystem\POSSystem\bin\Release\POSSystem.exe.config
+C:\Projects\POSSystem\POSSystem\bin\Release\POSSystem.exe
+C:\Projects\POSSystem\POSSystem\bin\Release\POSSystem.pdb
+C:\Projects\POSSystem\POSSystem\obj\Release\POSSystem.exe
+C:\Projects\POSSystem\POSSystem\obj\Release\POSSystem.pdb
